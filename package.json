@@ -1,6 +1,5 @@
 {
-  "homepage": "http://nikita7819.github.io/dailynews-app",
-  "name": "dailynews",
+ "name": "dailynews",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
